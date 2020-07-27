@@ -1,7 +1,7 @@
-# Abdul.github.io
+# Abdul_Portfolio
 Data Science Portfolio 
 
-Capstone Project: Shared Cars Geospatial Gvailability 
+# Capstone Project: Shared Cars Geospatial Availability 
 ![](https://github.com/AbdulYasen/Project/blob/master/Images/download.png)
 
 Project4:
